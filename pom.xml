@@ -32,7 +32,7 @@
           </execution>
         </executions>
         <configuration>
-          <mainClass>AwsSdkSample</mainClass>
+          <mainClass>edu.kjlubick.ncsu.SendAnEmail</mainClass>
         </configuration>
       </plugin>
     </plugins>
